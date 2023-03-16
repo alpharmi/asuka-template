@@ -15,6 +15,8 @@ Backend `localhost:3000`
 
 Pretty much the setup for the entire vue project. Here we can setup our app / site to use routes for quick navigation between pages.
 
+The comments give an explination of this.
+
 ```js
 ...
 //Import various views from the /views directory.
