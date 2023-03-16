@@ -4,6 +4,11 @@ const express = require("express")
 const app = express()
 
 //const limiter = rateLimit({windowMs: 15 * 60 * 1000, max: 25})
+app.get("/test", (req, res) => {
+    res.send("Hello!")
+})
 
 //app.use(cors())
 app.listen(3000)
+
+//Express.js backend / api running on localhost:3000

@@ -4,9 +4,19 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+    --bg: #0a092d;
+    --bg-light: #111038;
+    --bg-dark: #080722;
+    --lightpink: #f3bbd4;
+    --white-10: #ffffff1a;
+}
+
 html {
+    background-color: var(--bg);
     font-family: 'Poppins', sans-serif;
     overflow-x: hidden;
+    color: white;
 }
 
 #app {
