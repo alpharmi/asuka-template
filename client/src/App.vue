@@ -8,9 +8,3 @@
     <img src="/images/rays2.avif" loading="lazy" class="absolute">
   </div>
 </template>
-
-<script setup>
-  import * as vueRouter from "vue-router"
-
-  const router = vueRouter.useRouter()
-</script>
