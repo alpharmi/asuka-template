@@ -13,7 +13,7 @@ Backend `localhost:3000`
 
 ### Main.js
 
-Pretty much the setup the entire vue project. Here we can setup our app / site to use routes for quick navigation between pages.
+Pretty much the setup for the entire vue project. Here we can setup our app / site to use routes for quick navigation between pages.
 
 ```js
 ...
