@@ -5,7 +5,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Frontend and Backend template I've made for myself. An explination can be found below.
+Frontend and Backend template I've made for myself utilizing [vue.js](https://vuejs.org/), [tailwindcss](https://tailwindcss.com/), [express.js](https://expressjs.com/), and [MongoDB](https://www.mongodb.com/). An explination can be found below.
 
 Frontend `localhost:5173`
 
