@@ -9,6 +9,6 @@ app.get("/test", (req, res) => {
 })
 
 //app.use(cors())
-app.listen(3000)
+app.listen(3000) //Change port to your liking
 
 //Express.js backend / api running on localhost:3000
