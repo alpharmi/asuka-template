@@ -7,6 +7,8 @@
 
 Frontend and Backend template I've made for myself utilizing [vue.js](https://vuejs.org/), [tailwindcss](https://tailwindcss.com/), [express.js](https://expressjs.com/), and [MongoDB](https://www.mongodb.com/). An explination can be found below.
 
+Live example deployment at: https://asuka-template.vercel.app/
+
 Frontend `localhost:5173`
 
 Backend `localhost:3000`
